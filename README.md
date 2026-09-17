@@ -8,6 +8,17 @@
   <img src="https://img.shields.io/badge/UI--UX%20Architect-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="UI-UX Architect" />
 </p>
 
+<!-- Dynamic Tagline -->
+<p align="center">
+  <a href="https://github.com/mrrajrumel">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+Scalable+Backend+Systems+%26+Cloud+APIs;Full-Stack+Architect+%7C+UI%2FUX+Specialist+%7C+Founder;Crafting+High-Performance+Web+Ecosystems;Turning+Complex+Logic+into+Modern+Digital+Products" alt="Typing Tagline" />
+  </a>
+</p>
+
+<p align="center">
+  <em>🚀 "Architecting high-performance web systems, creative digital platforms & scalable business solutions."</em>
+</p>
+
 </div>
 
 ---
@@ -25,27 +36,53 @@
 
 ### <img src="https://img.shields.io/badge/-Tech%20Stack-0f172a?style=flat&logo=codeforces&logoColor=38bdf8" alt="Tech Stack" /> Tech Stack & Tools
 
-* **Frontend & Architecture:**  
+* **Frontend & Web Engineering:**  
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-05122A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-05122A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-05122A?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/TailwindCSS-05122A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-05122A?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass" />
+  <img src="https://img.shields.io/badge/Vite-05122A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
 
-* **Backend & Databases:**  
+* **Backend & API Architecture:**  
   <img src="https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-05122A?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-05122A?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NestJS-05122A?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
   <img src="https://img.shields.io/badge/PHP-05122A?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-05122A?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-05122A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GraphQL-05122A?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Postman-05122A?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 
-* **UI/UX, Tools & Marketing:**  
+* **Databases & Cloud Storage:**  
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-05122A?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-05122A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-05122A?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+
+* **DevOps, Infrastructure & OS:**  
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-05122A?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-05122A?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Vercel-05122A?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Termux-05122A?style=flat-square&logo=android&logoColor=3DDC84" alt="Termux" />
+
+* **UI/UX & Creative Suite:**  
   <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
   <img src="https://img.shields.io/badge/WordPress-05122A?style=flat-square&logo=wordpress&logoColor=21759B" alt="WordPress" />
-  <img src="https://img.shields.io/badge/SEO%20and%20Marketing-05122A?style=flat-square&logo=google&logoColor=4285F4" alt="SEO" />
-  <img src="https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Termux-05122A?style=flat-square&logo=android&logoColor=3DDC84" alt="Termux" />
+  <img src="https://img.shields.io/badge/SEO%20and%20Analytics-05122A?style=flat-square&logo=google&logoColor=4285F4" alt="SEO" />
 
 ---
 
@@ -79,6 +116,9 @@
   <a href="https://twitter.com/mrrajrumel" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-mrrajrumel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+</p>
+
+---  </a>
 </p>
 
 ---
