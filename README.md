@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Rumel Ahmed 👋
+# Hi there, I's Rumel Ahmed 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO%20%26%20Founder-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/Full--Stack%20Engineer-0f172a?style=for-the-badge&logo=laravel&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/Tech%2C%20Music%20%26%20Media-0f172a?style=for-the-badge&logo=soundcloud&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/Musical%20Artist%20%26%20Producer-0f172a?style=for-the-badge&logo=soundcloud&logoColor=f97316" />
 </p>
 
 </div>
@@ -17,6 +17,7 @@
 * <img src="https://img.shields.io/badge/-Enterprise-0f172a?style=flat&logo=codewars&logoColor=EF4444" alt="Company" /> Founder & CEO at **[Tune Soul Ocean](https://trytso.com)** — an independent digital music label and distribution platform.
 * <img src="https://img.shields.io/badge/-Leadership-0f172a?style=flat&logo=letsencrypt&logoColor=10B981" alt="Leadership" /> Co-Founder at **[Global Talent Hire Ltd](https://globaltalenthire.co.uk)** ([GitHub Organization](https://github.com/Global-Talent-Hire)) — driving global tech solutions and talent acquisition.
 * <img src="https://img.shields.io/badge/-Venture-0f172a?style=flat&logo=googleanalytics&logoColor=F97316" alt="Venture" /> Associated with **[Oopp](https://oopp.co.uk)** — building innovative digital platforms and web ecosystems.
+* <img src="https://img.shields.io/badge/-Music%20Art-0f172a?style=flat&logo=soundcloud&logoColor=EC4899" alt="Music" /> Beyond coding, I am also a musical artist, songwriter, and music producer operating independent digital music labels and distribution platforms.
 * <img src="https://img.shields.io/badge/-Focus-0f172a?style=flat&logo=lightning&logoColor=FACC15" alt="Focus" /> Core focus: Modern web architecture, scalable backend engineering, custom integrations, and creative tech solutions.
 
 ---
@@ -31,10 +32,12 @@
 
 ### <img src="https://img.shields.io/badge/-Stats-0f172a?style=flat&logo=googleanalytics&logoColor=F97316" alt="Stats" /> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrajrumel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajrumel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrajrumel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajrumel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ---
 
